@@ -1,0 +1,8 @@
+CRITICAL - 2024-09-25 12:42:55 --> Undefined array key "fhf"
+in APPPATH\Controllers\Controleur.php on line 190.
+ 1 APPPATH\Controllers\Controleur.php(190): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fhf"', 'C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Controllers\\Controleur.php', 190)
+ 2 APPPATH\Controllers\Controleur.php(45): App\Controllers\Controleur->redirecthorsForfe()
+ 3 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 4 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

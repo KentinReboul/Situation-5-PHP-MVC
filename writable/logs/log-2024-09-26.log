@@ -1,0 +1,76 @@
+CRITICAL - 2024-09-26 08:29:08 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Controleur.php(246): CodeIgniter\Model->__call('consulteFiche', [...])
+ 4 APPPATH\Controllers\Controleur.php(36): App\Controllers\Controleur->consultation()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-26 08:30:23 --> Undefined array key "lignefraisforfait"
+in APPPATH\Views\traitementConsul.php on line 34.
+ 1 APPPATH\Views\traitementConsul.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lignefraisforfait"', 'C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Views\\traitementConsul.php', 34)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Views\\traitementConsul.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('traitementConsul', [], true)
+ 5 APPPATH\Controllers\Controleur.php(251): view('traitementConsul', [...])
+ 6 APPPATH\Controllers\Controleur.php(36): App\Controllers\Controleur->consultation()
+ 7 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 8 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-26 08:31:03 --> Cannot use object of type stdClass as array
+in APPPATH\Views\traitementConsul.php on line 36.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('traitementConsul', [], true)
+ 4 APPPATH\Controllers\Controleur.php(251): view('traitementConsul', [...])
+ 5 APPPATH\Controllers\Controleur.php(36): App\Controllers\Controleur->consultation()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-26 08:32:06 --> Cannot use object of type stdClass as array
+in APPPATH\Views\traitementConsul.php on line 35.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('traitementConsul', [], true)
+ 4 APPPATH\Controllers\Controleur.php(251): view('traitementConsul', [...])
+ 5 APPPATH\Controllers\Controleur.php(36): App\Controllers\Controleur->consultation()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-26 08:32:55 --> syntax error, unexpected end of file
+in APPPATH\Views\traitementConsul.php on line 64.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('traitementConsul', [], true)
+ 3 APPPATH\Controllers\Controleur.php(251): view('traitementConsul', [...])
+ 4 APPPATH\Controllers\Controleur.php(36): App\Controllers\Controleur->consultation()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-26 08:34:33 --> Cannot use object of type stdClass as array
+in APPPATH\Views\traitementConsul.php on line 35.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('traitementConsul', [], true)
+ 4 APPPATH\Controllers\Controleur.php(251): view('traitementConsul', [...])
+ 5 APPPATH\Controllers\Controleur.php(36): App\Controllers\Controleur->consultation()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-26 08:35:17 --> Cannot use object of type stdClass as array
+in APPPATH\Views\traitementConsul.php on line 35.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('traitementConsul', [], true)
+ 4 APPPATH\Controllers\Controleur.php(251): view('traitementConsul', [...])
+ 5 APPPATH\Controllers\Controleur.php(36): App\Controllers\Controleur->consultation()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

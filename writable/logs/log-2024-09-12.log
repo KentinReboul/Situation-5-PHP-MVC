@@ -1,0 +1,516 @@
+CRITICAL - 2024-09-12 12:12:41 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Models\Modele.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:12:43 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Models\Modele.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:12:43 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Models\Modele.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:12:44 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Models\Modele.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:12:44 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Models\Modele.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:29:05 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Models\Modele.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:44:18 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Models\Modele.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:57:22 --> syntax error, unexpected token "/", expecting end of file
+in APPPATH\Models\Modele.php on line 91.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:57:52 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Models\Modele.php on line 127.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:58:01 --> Unclosed '{' on line 153
+in APPPATH\Models\Modele.php on line 282.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:58:19 --> syntax error, unexpected variable "$stmt", expecting "{"
+in APPPATH\Models\Modele.php on line 155.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 3 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 12:58:32 --> Cannot use try without catch or finally
+in APPPATH\Models\Modele.php on line 153.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-12 13:00:40 --> Class "App\Models\PDO" not found
+in APPPATH\Models\Modele.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 4 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 5 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 13:03:05 --> SQLSTATE[23000]: Integrity constraint violation: 1048 Le champ 'idVisiteur' ne peut être vide (null)
+in APPPATH\Models\Modele.php on line 36.
+ 1 APPPATH\Models\Modele.php(36): PDOStatement->execute()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 5 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 6 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 7 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 8 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 13:06:04 --> SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicata du champ 'a55-2024-09' pour la clef 'fichefrais.PRIMARY'
+in APPPATH\Models\Modele.php on line 46.
+ 1 APPPATH\Models\Modele.php(46): PDOStatement->execute()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 5 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 6 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 7 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 8 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 13:06:05 --> SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicata du champ 'a55-2024-09' pour la clef 'fichefrais.PRIMARY'
+in APPPATH\Models\Modele.php on line 46.
+ 1 APPPATH\Models\Modele.php(46): PDOStatement->execute()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 5 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 6 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 7 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 8 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 13:06:05 --> SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicata du champ 'a55-2024-09' pour la clef 'fichefrais.PRIMARY'
+in APPPATH\Models\Modele.php on line 46.
+ 1 APPPATH\Models\Modele.php(46): PDOStatement->execute()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 5 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 6 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 7 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 8 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 13:06:05 --> SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicata du champ 'a55-2024-09' pour la clef 'fichefrais.PRIMARY'
+in APPPATH\Models\Modele.php on line 46.
+ 1 APPPATH\Models\Modele.php(46): PDOStatement->execute()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\app\\Models\\Modele.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Modele')
+ 5 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Modele')
+ 6 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 7 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 8 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 13:08:25 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(306): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 13:08:25 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 13:08:27 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(306): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 13:08:27 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 13:23:53 --> Class CodeIgniter\Database\MySQLi\Connection contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CodeIgniter\Database\BaseConnection::execute)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-12 13:24:17 --> Class CodeIgniter\Database\MySQLi\Connection contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CodeIgniter\Database\BaseConnection::execute)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-12 13:24:18 --> Class CodeIgniter\Database\MySQLi\Connection contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CodeIgniter\Database\BaseConnection::execute)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-12 13:24:18 --> Class CodeIgniter\Database\MySQLi\Connection contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CodeIgniter\Database\BaseConnection::execute)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-12 13:24:19 --> Class CodeIgniter\Database\MySQLi\Connection contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CodeIgniter\Database\BaseConnection::execute)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2024-09-12 13:24:22 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(306): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 13:24:22 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 14:13:27 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:315
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(315): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 14:13:27 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 14:13:28 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:315
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(315): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 14:13:28 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 14:13:28 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:315
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(315): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 14:13:28 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 14:13:28 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:315
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(315): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 14:13:28 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 14:13:39 --> Class CodeIgniter\Database\MySQLi\Connection contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CodeIgniter\Database\BaseConnection::execute)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-12 14:13:52 --> syntax error, unexpected token "public", expecting end of file
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 34.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\system\\Database\\MySQLi\\Connection.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Database\\MySQLi\\Connection')
+ 3 SYSTEMPATH\Database\Database.php(137): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Database\\MySQLi\\Connection')
+ 4 SYSTEMPATH\Database\Database.php(55): CodeIgniter\Database\Database->initDriver('MySQLi', 'Connection', [...])
+ 5 SYSTEMPATH\Database\Config.php(81): CodeIgniter\Database\Database->load([...], 'default')
+ 6 SYSTEMPATH\Model.php(151): CodeIgniter\Database\Config::connect('default')
+ 7 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Model->__construct()
+ 8 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 9 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+10 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+11 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 14:14:04 --> syntax error, unexpected token "public", expecting end of file
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\codeigniter4-v4.4.0\\system\\Database\\MySQLi\\Connection.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('CodeIgniter\\Database\\MySQLi\\Connection')
+ 3 SYSTEMPATH\Database\Database.php(137): CodeIgniter\Autoloader\Autoloader->loadClass('CodeIgniter\\Database\\MySQLi\\Connection')
+ 4 SYSTEMPATH\Database\Database.php(55): CodeIgniter\Database\Database->initDriver('MySQLi', 'Connection', [...])
+ 5 SYSTEMPATH\Database\Config.php(81): CodeIgniter\Database\Database->load([...], 'default')
+ 6 SYSTEMPATH\Model.php(151): CodeIgniter\Database\Config::connect('default')
+ 7 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Model->__construct()
+ 8 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 9 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+10 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+11 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 14:14:09 --> Class "CodeIgniter\Database\MySQLi\Connection" not found
+in SYSTEMPATH\Database\Database.php on line 137.
+ 1 SYSTEMPATH\Database\Database.php(55): CodeIgniter\Database\Database->initDriver('MySQLi', 'Connection', [...])
+ 2 SYSTEMPATH\Database\Config.php(81): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(151): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Model->__construct()
+ 5 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 14:14:22 --> Class "CodeIgniter\Database\MySQLi\Connection" not found
+in SYSTEMPATH\Database\Database.php on line 137.
+ 1 SYSTEMPATH\Database\Database.php(55): CodeIgniter\Database\Database->initDriver('MySQLi', 'Connection', [...])
+ 2 SYSTEMPATH\Database\Config.php(81): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(151): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Model->__construct()
+ 5 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 14:14:24 --> Class "CodeIgniter\Database\MySQLi\Connection" not found
+in SYSTEMPATH\Database\Database.php on line 137.
+ 1 SYSTEMPATH\Database\Database.php(55): CodeIgniter\Database\Database->initDriver('MySQLi', 'Connection', [...])
+ 2 SYSTEMPATH\Database\Config.php(81): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(151): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Model->__construct()
+ 5 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 14:14:27 --> Class "CodeIgniter\Database\MySQLi\Connection" not found
+in SYSTEMPATH\Database\Database.php on line 137.
+ 1 SYSTEMPATH\Database\Database.php(55): CodeIgniter\Database\Database->initDriver('MySQLi', 'Connection', [...])
+ 2 SYSTEMPATH\Database\Config.php(81): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(151): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Model->__construct()
+ 5 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 14:38:54 --> Class "CodeIgniter\Database\MySQLi\Connection" not found
+in SYSTEMPATH\Database\Database.php on line 137.
+ 1 SYSTEMPATH\Database\Database.php(55): CodeIgniter\Database\Database->initDriver('MySQLi', 'Connection', [...])
+ 2 SYSTEMPATH\Database\Config.php(81): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(151): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Model->__construct()
+ 5 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-12 14:39:19 --> Class "CodeIgniter\Database\MySQLi\Connection" not found
+in SYSTEMPATH\Database\Database.php on line 137.
+ 1 SYSTEMPATH\Database\Database.php(55): CodeIgniter\Database\Database->initDriver('MySQLi', 'Connection', [...])
+ 2 SYSTEMPATH\Database\Config.php(81): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(151): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\Controleur.php(51): CodeIgniter\Model->__construct()
+ 5 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 14:39:43 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(306): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 14:39:43 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 14:50:37 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(306): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 14:50:37 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-09-12 15:57:57 --> mysqli_sql_exception: La table 'gsb.t_billet' n'existe pas in C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\MySQLi\Connection.php(306): mysqli->query('select BIL_ID, ...', 0)
+#1 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select BIL_ID, ...')
+#2 C:\wamp64\www\codeigniter4-v4.4.0\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select BIL_ID, ...')
+#3 C:\wamp64\www\codeigniter4-v4.4.0\app\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, ...')
+#4 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+#5 C:\wamp64\www\codeigniter4-v4.4.0\app\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+#6 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(915): App\Controllers\Controleur->index()
+#7 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+#8 C:\wamp64\www\codeigniter4-v4.4.0\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\codeigniter4-v4.4.0\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-12 15:57:57 --> La table 'gsb.t_billet' n'existe pas
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\Modele.php(135): CodeIgniter\Database\BaseConnection->query('select BIL_ID, BIL_TITRE, BIL_DATE from T_BILLET order by BIL_ID desc')
+ 2 APPPATH\Controllers\Controleur.php(56): App\Models\Modele->getBillets()
+ 3 APPPATH\Controllers\Controleur.php(33): App\Controllers\Controleur->accueil()
+ 4 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Controleur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controleur))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
